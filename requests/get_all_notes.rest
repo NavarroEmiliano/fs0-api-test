@@ -1,1 +1,1 @@
-GET https://fso-part3-6jlr74rgm-emiliano-navarros-projects.vercel.app/api/notes
+GET http://localhost:3001/api/notes
