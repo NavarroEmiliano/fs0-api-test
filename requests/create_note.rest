@@ -1,6 +1,6 @@
 POST http://localhost:3001/api/notes
 Content-type: application/json
-Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Ikxlbm55IiwiaWQiOiI2NWFhMzY4OGMyMTNjYTJjZTk4MzA0OTMiLCJpYXQiOjE3MDU2NTcyNjJ9.8szC5unCu3xTSSCNSoSwPJxGHsZl_SpIaRpDc6EwOkU
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Ikxlbm55IiwiaWQiOiI2NWJkMDdiMDcwOWM2Y2ZmZDI5OWFhY2MiLCJpYXQiOjE3MDY4ODcxOTAsImV4cCI6MTcwNjg5MDc5MH0.CuDvg3eADR8LeBcf-9oY-6-royfzjn5mC-BmHY5bSu8
 
 {
     "content": "NoteeeJWTOk",
